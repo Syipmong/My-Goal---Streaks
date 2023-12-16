@@ -8,7 +8,7 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 
 ### Today's Progress
 
-- [List what you worked on]
+- [List what i worked on]
 - [Include any achievements or milestones]
 
 ### What I Learned
