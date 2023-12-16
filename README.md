@@ -4,7 +4,7 @@
 
 This repository serves as a daily log to document my journey towards 1 Month. My aim is to create a streak of documenting my progress for 365+ days.
 
-## Day 1: [Date]
+## Day 1: 16/12/2023
 
 ### Today's Progress
 
@@ -20,7 +20,7 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 - [Share your thoughts on the day's progress]
 - [Reflect on any challenges faced and how you overcame them]
 
-## Day 2: [Date]
+## Day 2: 17/12/2023
 
 ### Today's Progress
 
