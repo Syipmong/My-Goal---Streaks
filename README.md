@@ -36,6 +36,7 @@ i did some data sets
 - I also understood how to work with external APIs like OpenWeatherMap API
 ### Challenges Faced
 - The biggest challenge was trying to understand how to pass data from one component to another in React
+I am really enjoying this project because it is helping me improve my skills in frontend development. It has been great learning about different technologies
 
 ...
 
