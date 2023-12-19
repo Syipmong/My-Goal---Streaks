@@ -39,9 +39,11 @@ i did some data sets
 I am really enjoying this project because it is helping me improve my skills in frontend development. It has been great learning about different technologies
 I think this is going to be a good project because it involves learning new skills while creating something useful</s>
 
+
 ...
 
 ### Thoughts and Reflections
+I think this project is going to be really helpful because it allows me to practice my skills in different areas at once. It has been great fun learning
 
 ...
 
