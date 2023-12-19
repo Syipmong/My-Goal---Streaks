@@ -37,6 +37,7 @@ i did some data sets
 ### Challenges Faced
 - The biggest challenge was trying to understand how to pass data from one component to another in React
 I am really enjoying this project because it is helping me improve my skills in frontend development. It has been great learning about different technologies
+I think this is going to be a good project because it involves learning new skills while creating something useful</s>
 
 ...
 
