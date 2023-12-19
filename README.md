@@ -13,7 +13,7 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 
 ### What I Learned
 
-- i got to learn how to setup some basic components
+- i got to learn how to setup some basic components in html and styling
 
 ### Thoughts and Reflections
 
