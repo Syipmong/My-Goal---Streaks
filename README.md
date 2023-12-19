@@ -25,6 +25,8 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 i did some data sets
 
 ### Today's Progress
+- i created a chart that displays all the income sources
+- i added functionality so when you click on each bar, it will show more information about that source
 
 ...
 
