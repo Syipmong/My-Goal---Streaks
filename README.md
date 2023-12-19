@@ -44,6 +44,8 @@ I think this is going to be a good project because it involves learning new skil
 
 ### Thoughts and Reflections
 I think this project is going to be really helpful because it allows me to practice my skills in different areas at once. It has been great fun learning
+I think this project is going to be really helpful for me because it involves learning new skills while building something useful. It has pushed me out of my
+
 
 ...
 
