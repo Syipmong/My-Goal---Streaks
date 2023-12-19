@@ -34,6 +34,8 @@ i did some data sets
 ### What I Learned
 - I learnt how to manipulate DOM elements using vanilla JS
 - I also understood how to work with external APIs like OpenWeatherMap API
+### Challenges Faced
+- The biggest challenge was trying to understand how to pass data from one component to another in React
 
 ...
 
