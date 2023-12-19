@@ -28,9 +28,11 @@ i did some data sets
 - i created a chart that displays all the income sources
 - i added functionality so when you click on each bar, it will show more information about that source
 
+
 ...
 
 ### What I Learned
+- I learnt how to manipulate DOM elements using vanilla JS
 
 ...
 
