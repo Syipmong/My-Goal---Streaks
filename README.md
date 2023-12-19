@@ -22,6 +22,7 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 - i faced some basic challenges such as setting up the props for the charts
 
 ## Day 2: 17/12/2023
+i did some data sets
 
 ### Today's Progress
 
