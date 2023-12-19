@@ -8,8 +8,8 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 
 ### Today's Progress
 
-- [List what i worked on]
-- [Include any achievements or milestones]
+- i started working on an expense tracker
+- achieved it's setup
 
 ### What I Learned
 
