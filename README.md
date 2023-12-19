@@ -46,7 +46,10 @@ I think this is going to be a good project because it involves learning new skil
 I think this project is going to be really helpful because it allows me to practice my skills in different areas at once. It has been great fun learning
 I think this project is going to be really helpful for me because it involves learning new skills while building something useful.
 I think this project is going to be really helpful for me because it involves learning multiple skills at once which makes it interesting.
-...
+
+
+I think this project is going to be really helpful for me in terms of learning new skills and gaining experience in web development. It has been a
+I had a good day overall but there were some setbacks. Firstly, understanding how to pass data between different components in React is still not
 
 
 
