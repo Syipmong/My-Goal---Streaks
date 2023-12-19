@@ -19,7 +19,7 @@ This repository serves as a daily log to document my journey towards 1 Month. My
 ### Thoughts and Reflections
 
 - it was quite impressive and learned alot
-- [Reflect on any challenges faced and how you overcame them]
+- i faced some basic challenges such as setting up the props for the charts
 
 ## Day 2: 17/12/2023
 
