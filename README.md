@@ -56,3 +56,13 @@ I had a good day overall but there were some setbacks. Firstly, understanding ho
 I had a good day today. It wasn't very productive but I enjoyed learning new things. I feel like I am getting better at understanding
 
 
+## Day 31: 22/12/2023
+I made good progress today!
+### Today's Progress
+Today, I worked on my project which is an app called "Money Tracker". It helps users track their expenses and incomes
+Today, I worked on my project. Here are the highlights:
+- I fixed an issue where the app would crash if there were no transactions in the database. This happened because `getTransactions` returned an
+  empty array if there were no transactions in the database.
+- I added a new feature to the app that allows users to filter their transactions by category.
+- I added a new feature to the app that allows users to
+filter their transactions by date range.
