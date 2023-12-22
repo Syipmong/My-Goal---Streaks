@@ -53,3 +53,6 @@ I had a good day overall but there were some setbacks. Firstly, understanding ho
 
 
 
+I had a good day today. It wasn't very productive but I enjoyed learning new things. I feel like I am getting better at understanding
+
+
