@@ -4,4 +4,12 @@ Programming is the process of writing instructions for a computer to perform spe
 
 ## Code Snippet
 
-javascript 
+javascript
+
+```
+// This is a JavaScript code snippet.
+function name(){
+    console.log("Hello User!")
+}
+
+```
