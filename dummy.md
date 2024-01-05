@@ -13,3 +13,14 @@ function name(){
 }
 
 ```
+
+python
+
+```
+
+# This is a Python code snippet.
+def print_hello():
+    print("Hello User!")
+
+
+```
