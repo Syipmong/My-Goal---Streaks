@@ -70,4 +70,5 @@ filter their transactions by date range.
 
 
 _________________
-|_____|_________|
+|                |
+|________________|
