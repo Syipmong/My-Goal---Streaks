@@ -67,6 +67,5 @@ Today, I worked on my project. Here are the highlights:
 - I added a new feature to the app that allows users to
 filter their transactions by date range.
 
-
-
-#$
+#txt
+&copy;2024
