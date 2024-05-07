@@ -70,5 +70,3 @@ filter their transactions by date range.
 # txt test
 &copy;2024
 
-## Ducati
-
