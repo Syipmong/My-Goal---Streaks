@@ -71,5 +71,5 @@ filter their transactions by date range.
 ![Uploading image.png…]()
 ![Uploading image.png…]()
 ![Uploading image.png…]()
-![Uploading image.png…]()
+
 
