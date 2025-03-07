@@ -70,6 +70,4 @@ filter their transactions by date range.
 ### EOF
 ![Uploading image.png…]()
 ![Uploading image.png…]()
-![Uploading image.png…]()
-
 
