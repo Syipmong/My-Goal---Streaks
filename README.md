@@ -69,6 +69,3 @@ filter their transactions by date range.
 
 ### EOF
 
-
-
-
